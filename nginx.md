@@ -5,7 +5,7 @@ tagline: Nginx server with lua-nginx-module.
 ## What is this?
 
 This is the nginx server built with
-[lua-nginx-module](github.com/openresty/lua-nginx-module)
+[lua-nginx-module](https://github.com/openresty/lua-nginx-module)
 i.e. OpenResty core.
 
 Unlike standard Nginx or OpenResty binaries, this build links dynamically
