@@ -16,7 +16,8 @@ Other OpenResty modules are provided as separate packages as well.
 
 ## Status
 
-<warn>Ready for use on Windows and Linux. This website is proof. OSX build is coming.</warn>
+Ready for use on Windows and Linux. This website is proof. 
+OSX build is coming too.
 
 ## HowTo
 
